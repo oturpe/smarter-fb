@@ -1,4 +1,8 @@
-[Adblock]
+[Adblock Plus 1.1]
+! Version: 20150211
+! Title: Smarter B
+! Homepage: https://github.com/oturpe/smarter-fb/
+!---Smarter FB---!
 www.facebook.com##div[id^="topnews_main_stream"] div[class^="_5pcr clearfix"]
 www.facebook.com##div[class^="fbFeedTickerStory"]
 www.facebook.com##div[id^="topnews_main_stream"] div[class^="userContentWrapper"]
