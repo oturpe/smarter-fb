@@ -1,3 +1,4 @@
+[Adblock]
 www.facebook.com##div[id^="topnews_main_stream"] div[class^="_5pcr clearfix"]
 www.facebook.com##div[class^="fbFeedTickerStory"]
 www.facebook.com##div[id^="topnews_main_stream"] div[class^="userContentWrapper"]
